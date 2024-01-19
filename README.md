@@ -4,7 +4,7 @@ Created By: **Matthew Arenas**
 
 Tech: **Java,JavaFX,ControlsFX,Maven**
 
-This is a gui application that allows users to add, delete, modify and keep track of various students and the data that pertains to them. Additionally, it allows mass printing of certificates and documents which are autofilled to contain the student's information. Packaged and available for any windows machine when run with the .dat file in the same directory.
+This is a gui application that allows users to add, delete, modify and keep track of various students and the data that pertains to them. Additionally, it allows mass printing of certificates and documents which are autofilled to contain the student's information. Packaged and available for any windows machine when run with the .dat file in the same directory. Download under the releases tab.
 
 Development Period **August-December 2023**
 
