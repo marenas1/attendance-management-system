@@ -18,6 +18,13 @@ Development Period **August-December 2023**
 - [ ] Student data is all stored in a student object allowing for easy retreival.
 - [ ] Saves student objects and encrypts student data in a .dat file. Done using serialization with java.
 - [ ] Bundled into exe containing jre and javafx and controlsfx libraries so any windows machine can run it.
+
+## Video Walkthrough
+<div>
+ <video height="240" width="320" controls>
+  <source src="https://github.com/marenas1/attendance-management-system/blob/main/TKDAppVideo.mp4" type="video/mp4">
+ </video>
+</div>
  
 ## Notes
 
